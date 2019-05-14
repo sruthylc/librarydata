@@ -1,0 +1,4 @@
+staff name:geethu
+dept:mca
+subject:maths
+clg:mcet
