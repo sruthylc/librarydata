@@ -1,0 +1,4 @@
+name:sruthy lc
+class:s4 
+department:mca
+clg:mcet
